@@ -1,0 +1,11 @@
+C:\169.159.129.234\GerhardBot1\GerhardBot1\bin\Debug\netcoreapp2.0\GerhardBot1.deps.json
+C:\169.159.129.234\GerhardBot1\GerhardBot1\bin\Debug\netcoreapp2.0\GerhardBot1.runtimeconfig.json
+C:\169.159.129.234\GerhardBot1\GerhardBot1\bin\Debug\netcoreapp2.0\GerhardBot1.runtimeconfig.dev.json
+C:\169.159.129.234\GerhardBot1\GerhardBot1\bin\Debug\netcoreapp2.0\GerhardBot1.dll
+C:\169.159.129.234\GerhardBot1\GerhardBot1\bin\Debug\netcoreapp2.0\GerhardBot1.pdb
+C:\169.159.129.234\GerhardBot1\GerhardBot1\obj\Debug\netcoreapp2.0\GerhardBot1.csprojAssemblyReference.cache
+C:\169.159.129.234\GerhardBot1\GerhardBot1\obj\Debug\netcoreapp2.0\GerhardBot1.csproj.CoreCompileInputs.cache
+C:\169.159.129.234\GerhardBot1\GerhardBot1\obj\Debug\netcoreapp2.0\GerhardBot1.AssemblyInfoInputs.cache
+C:\169.159.129.234\GerhardBot1\GerhardBot1\obj\Debug\netcoreapp2.0\GerhardBot1.AssemblyInfo.cs
+C:\169.159.129.234\GerhardBot1\GerhardBot1\obj\Debug\netcoreapp2.0\GerhardBot1.dll
+C:\169.159.129.234\GerhardBot1\GerhardBot1\obj\Debug\netcoreapp2.0\GerhardBot1.pdb
